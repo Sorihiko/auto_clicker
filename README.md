@@ -1,5 +1,5 @@
 # AutoClicker 
-autoclicker by python
+Python autoclicker for Minecraft
 
 Line 28 is for cps
 
